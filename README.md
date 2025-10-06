@@ -1,0 +1,1 @@
+# obsidian-plugin-test-vault
